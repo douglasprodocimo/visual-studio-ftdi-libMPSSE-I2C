@@ -19,7 +19,7 @@ Ftdi MPSSE-I2C lib with Visual Studio 2017 x86_64. Isn't a project, this is just
 
 6. The libMPSSE.lib file will be generated.
 
-7. Copy the important project files, **libMPSSE.dll, libMPSSE.lib** from local folder, and the  **libMPSSE_i2c.h, WinTypes.h, ftd2xx.h** from "...\LibMPSSE-I2C\Release\samples\I2C" folder.
+7. Copy the important project files, **libMPSSE.dll, libMPSSE.lib** from local folder, and the  **libMPSSE_i2c.h, WinTypes.h, ftd2xx.h** from "...\LibMPSSE-I2C\Release\samples\I2C" folder to your Visual Studio's project folder.
 
 8. The last step is change the line inside WinTypes.h:
 
